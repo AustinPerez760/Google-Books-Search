@@ -1,0 +1,30 @@
+{
+  "name": "Google-Books-Search",
+  "version": "1.0.0",
+  "description": "React-based Google Books Search app using Node, Express, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinPerez760/Google-Books-Search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinPerez760/Google-Books-Search/issues"
+  },
+  "homepage": "https://github.com/AustinPerez760/Google-Books-Search#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.12.1"
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
